@@ -1,7 +1,12 @@
 var nodemailer = require('nodemailer');
 const express = require('express');
-
+const cors = require('cors');
 const app = express();
+
+app.use(cors({
+    origin: '*'
+
+}));
 app.use(express.json());
 app.post('/mailToDriver', async (req, res) => {
     const { DriverName, DriverEmail, DriverPassword } = req.body;
