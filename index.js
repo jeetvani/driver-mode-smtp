@@ -50,8 +50,8 @@ app.post('/mailToDriver', async (req, res) => {
         var transporter = nodemailer.createTransport({
             service: 'gmail',
             auth: {
-                user: 'copyrightjeet@gmail.com',
-                pass: 'isypmzhrdqtqtmpe'
+                user: 'rftr.tech@gmail.com',
+                pass: 'xcmlxonbwgupaaum'
             }
         });
 
