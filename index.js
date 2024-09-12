@@ -12,7 +12,7 @@ app.use(express.json());
 // Function to send email
 const sendEmail = async (mailOptions) => {
   const transporter = nodemailer.createTransport({
-    service: 'gmail',
+    host : 'smtp.gmail.com',
     auth: { user, pass },
   });
 
