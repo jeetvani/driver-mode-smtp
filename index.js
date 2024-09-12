@@ -3,18 +3,23 @@ const express = require('express');
 const cors = require('cors');
 const app = express();
 
-const user = 'rftr.tech@gmail.com';
-const pass = 'xcmjxonbwgupaaum';
+const user = 'jeetvani171@gmail.com';
+const pass = 'pzfpugrazgzddezu';
 
 app.use(cors({ origin: '*' }));
 app.use(express.json());
 
 // Function to send email
 const sendEmail = async (mailOptions) => {
-  const transporter = nodemailer.createTransport({
-    host : 'smtp.gmail.com',
-    auth: { user, pass },
-  });
+  const transporter =nodemailer.createTransport({
+    service: 'gmail',
+    host: 'smtp.gmail.com',
+    auth: {
+      user: user,
+      pass: pass
+    },
+    port: 465
+  })
 
   try {
     console.log('Sending email to:', mailOptions.to);
