@@ -103,6 +103,12 @@ app.post('/sendMail', async (req, res) => {
   }
 });
 
+
+app.get('/', (req, res) => {
+    res.send('Driver Mode SMTP API');
+    }
+);
+
 app.listen(4000, () => {
   console.log('Server started on port 4000');
 });
