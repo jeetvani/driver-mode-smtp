@@ -2,11 +2,6 @@
 # yarn lockfile v1
 
 
-Express@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/Express/-/Express-3.0.1.tgz#e64ef7cb37684a69fc22d4111ddde4498896496a"
-  integrity sha512-T8VnUAU1Kjm6wRidtZVjpCYGuSY9IXEYatng3QQ2Q7QQfDoo+tNeJFucDaZ79V4babYWarc4VkKsipC9x2EFlQ==
-
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
