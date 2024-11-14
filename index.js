@@ -4,7 +4,7 @@ const cors = require('cors')
 const app = express()
 
 const user = 'jeetvani171@gmail.com'
-const pass = 'pzfpugrazgzddezu'
+const pass = 'wuuvoyejbpaituwj'
 
 app.use(cors({ origin: '*' }))
 app.use(express.json())
