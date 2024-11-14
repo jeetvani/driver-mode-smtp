@@ -156,6 +156,7 @@ app.post('/sendEmail', async (req, res) => {
   }
 })
 
-app.listen(5000, () => {
-  console.log('Server started on port 4000')
+const port = process.env.PORT || 6000
+app.listen(port, () => {
+  console.log('Server started on port ' + port)
 })

@@ -1,0 +1,272 @@
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
+2024-11-14 13:38 +05:30: Error: listen EADDRINUSE: address already in use :::5000
+2024-11-14 13:38 +05:30:     at Server.setupListenHandle [as _listen2] (node:net:1893:16)
+2024-11-14 13:38 +05:30:     at listenInCluster (node:net:1941:12)
+2024-11-14 13:38 +05:30:     at Server.listen (node:net:2029:7)
+2024-11-14 13:38 +05:30:     at Function.listen (/Users/jeetvani/work/workana/driver-mode-smtp/node_modules/express/lib/application.js:635:24)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/work/workana/driver-mode-smtp/index.js:159:5)
+2024-11-14 13:38 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1378:14)
+2024-11-14 13:38 +05:30:     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+2024-11-14 13:38 +05:30:     at Module.load (node:internal/modules/cjs/loader:1212:32)
+2024-11-14 13:38 +05:30:     at Module._load (node:internal/modules/cjs/loader:1028:12)
+2024-11-14 13:38 +05:30:     at Object.<anonymous> (/Users/jeetvani/.nvm/versions/node/v21.6.1/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+2024-11-14 13:38 +05:30:   code: 'EADDRINUSE',
+2024-11-14 13:38 +05:30:   errno: -48,
+2024-11-14 13:38 +05:30:   syscall: 'listen',
+2024-11-14 13:38 +05:30:   address: '::',
+2024-11-14 13:38 +05:30:   port: 5000
+2024-11-14 13:38 +05:30: }
