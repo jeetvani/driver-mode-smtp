@@ -2,9 +2,8 @@ const nodemailer = require('nodemailer')
 const express = require('express')
 const cors = require('cors')
 const app = express()
-
-const user = 'jeetvani171@gmail.com'
-const pass = 'wuuvoyejbpaituwj'
+const user = 'rftr.tech@gmail.com'
+const pass = 'qfdncjopudabuqjz'
 
 app.use(cors({ origin: '*' }))
 app.use(express.json())
